@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled Project</name>
+	<gx:CascadingStyle kml:id="__managed_style_20E28E88731D78EF299C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D015903231D78EF299C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00214C51341D78EF299C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D015903231D78EF299C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20E28E88731D78EF299C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04F551D8881D78EF299C">
+		<name>Milad&apos;s House</name>
+		<LookAt>
+			<longitude>51.4088492853217</longitude>
+			<latitude>35.81468914275644</latitude>
+			<altitude>1778.258623029655</altitude>
+			<heading>-10.01635487865016</heading>
+			<tilt>21.6661012267626</tilt>
+			<gx:fovy>34.99999999999999</gx:fovy>
+			<range>513.1199256725813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00214C51341D78EF299C</styleUrl>
+		<Point>
+			<coordinates>51.40908141707836,35.8148017586387,1781.521040534474</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
